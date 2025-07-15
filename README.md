@@ -1,14 +1,12 @@
 <p align="center">
-  <img src="https://i.ibb.co/dJ0gpJf1/photo-2025-06-16-12-07-05-7516517596376596504.jpg" alt="VJ-FILE-STORE-BOT Logo">
+  <img src="https://files.catbox.moe/0woq6w.jpg" alt="KEVIN-FILE-STORE-BOT Logo">
 </p>
 <h1 align="center">
-  VJ FILE STORE BOT
+  kevin file store robot
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ-FILE-STORE-BOT;A+Highly+Advance+File+Store+Bot;Made+By+Yt-@Tech_VJ!;With+Clone+Feature+Stream/Download+Link;Custom+Url+Shortner+Auto+Delete+Feature;A+Bot+With+Fully+Advanced+Feature!;Thank+You!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Kevin-Bot-Section;A+Highly+Advance+File+Store+Bot;Made+By+Yt-@Mr_Kevin_Official!;With+Clone+Feature+Stream/Download+Link;Custom+Url+Shortner+Auto+Delete+Feature;A+Bot+With+Fully+Advanced+Feature!;Thank+You!)
 </p>
-
-### Deploy Tutorial [Video Link](https://youtu.be/VxAn9VcYtQg)
 
 ## Features
 
@@ -85,13 +83,13 @@
 
 <b><details><summary>Tap On Me For See Credit</summary>
 
-💝 Credit Goes To [Tech VJ](https://telegram.me/Kingvj01)
+💝 Credit Goes To [Mr Kevin](https://t.me/About_Mr_kevin)
 
-🖍️ This Code Is Fully Written Or Coded And Public By [Tech VJ](https://telegram.me/Kingvj01) So Don't Forgot To Give Credit
+🖍️ This Code Is Fully Written Or Coded And Public By [Mr Kevin](https://t.me/About_Mr_kevin) So Don't Forgot To Give Credit
 
 💖 And Thank You So Much To All Who Help In This Journey 💕
 
-Copyright ©️ [Tech VJ](https://telegram.me/Kingvj01)
+Copyright ©️ [Mr Kevin(https://t.me/About_Mr_kevin)
 
 </b>
 </details>
